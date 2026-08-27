@@ -1,0 +1,13 @@
+{
+    "name": "fille-a-dady-albert/projet-notes1",
+    "description": "projet note version namespace",
+    "license": "MIT",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+   
+    "require": {}
+}
