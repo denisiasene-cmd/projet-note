@@ -1,6 +1,6 @@
 {
-    "name": "fille-a-dady-albert/projet-notes1",
-    "description": "projet note version namespace",
+    "name": "denisiasene-cmd/projet-note",
+    "description": "Projet note version namespace",
     "license": "MIT",
     "type": "project",
     "autoload": {
@@ -8,6 +8,5 @@
             "App\\": "src/"
         }
     },
-   
     "require": {}
 }
